@@ -11,7 +11,6 @@ while True:
 
             todo = input("Enter a todo: ") + "\n"
 
-
             with open('to-do_app/todos.txt', 'r') as file:
                 todos = file.readlines()
 
