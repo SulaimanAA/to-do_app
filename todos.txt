@@ -1,9 +1,0 @@
-sleep
-get ready
-write
-cook food
-Take a shower
-Fly a plane
-eat food
-Fill petrol
-Drive to the shops
